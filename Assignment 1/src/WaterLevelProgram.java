@@ -2,7 +2,7 @@ import java.util.Scanner; // importing Scanner object
 
 /**
  * Name: Zahid Dawod
- * Student ID: 101041370
+ * Student ID: #########
  * Assignment: 1
  * Question: 1
  **/
